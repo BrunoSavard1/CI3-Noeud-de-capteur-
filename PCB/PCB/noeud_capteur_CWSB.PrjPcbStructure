@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=NC_Alimentation.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=NC_Alimentation.SchDoc|FileName=nc_Circuit.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=NC_Alimentation.SchDoc|FileName=NC_Connectors.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=NC_Alimentation.SchDoc|FileName=NC_Overview.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=NC_Alimentation.SchDoc|FileName=NC_Title.SchDoc|SheetNumber=1

@@ -177,48 +177,48 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Parameter1]
-Name=Projet_Titre
-Value=Noeud_capteurs_CWSB
+Name=Projet_Concepteur1
+Value=William Champagne
 
 [Parameter2]
-Name=Projet_stencil_Top_epaisseur
-Value=0.1 MM
+Name=Projet_Concepteur2
+Value=Bruno Savard
 
 [Parameter3]
-Name=Projet_stencil_Bot_epaisseur
-Value=0.1 MM
+Name=Projet_Concepteur3
+Value=
 
 [Parameter4]
-Name=Projet_SCH_Rev
-Value=00
+Name=Projet_Concepteur4
+Value=
 
 [Parameter5]
-Name=Projet_PCB_Rev
-Value=1
+Name=Projet_Date
+Value=2026-08-24
 
 [Parameter6]
 Name=Projet_nom_du_cours
 Value=CI3 (243-554-SH)
 
 [Parameter7]
-Name=Projet_Date
-Value=2026-08-24
+Name=Projet_PCB_Rev
+Value=1
 
 [Parameter8]
-Name=Projet_Concepteur4
-Value=
+Name=Projet_SCH_Rev
+Value=00
 
 [Parameter9]
-Name=Projet_Concepteur3
-Value=
+Name=Projet_stencil_Bot_epaisseur
+Value=0.1 MM
 
 [Parameter10]
-Name=Projet_Concepteur2
-Value=Bruno Savard
+Name=Projet_stencil_Top_epaisseur
+Value=0.1 MM
 
 [Parameter11]
-Name=Projet_Concepteur1
-Value=William Champagne
+Name=Projet_Titre
+Value=Noeud_capteurs_CWSB
 
 [Configuration1]
 Name=Sources
@@ -1375,6 +1375,18 @@ SelectedOnly=0
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
+
+[NetInfos]
+Net1=NetName=1V8|NetColor=$00FF6EFF
+Net2=NetName=3V3|NetColor=$006E6EFF
+Net3=NetName=D_N|NetColor=$00DB208A
+Net4=NetName=D_P|NetColor=$00515B0C
+Net5=NetName=GND|NetColor=$00FF6E6E
+Net6=NetName=I2C.SCL|NetColor=$006EFF6E
+Net7=NetName=I2C.SDA|NetColor=$00FFFF6E
+Net8=NetName=LOAD|NetColor=$000083FD
+Net9=NetName=VBAT|NetColor=$008E76EC
+Net10=NetName=VBUS|NetColor=clYellow
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|UseName=-1|InclAllRules=0
