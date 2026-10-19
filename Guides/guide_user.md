@@ -12,4 +12,4 @@
 ![Bluetooth](images/ble_support3.png "Bluetooth")
 
 **6.** Vous devriez avoir un résultat similaire à ceci:
-![Bluetooth](images/ble_support3.png "Bluetooth")
+![Bluetooth](images/ble_support4.png "Bluetooth")
