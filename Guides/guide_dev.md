@@ -7,6 +7,7 @@
 2. Pour faire rentrer le connecteur de batterie (qui doit pointer vers le bas), il faut enlever le casing du connecteur.
 3. Vérifier la polarité du connecteur de batterie. Un short circuit est si vite arrivé.
 4. Vérifier l'orientation de la TVS, cela peut causer des problèmes de communication avec l'ordinateur.
+5. Souder seulement le header I2C en cas de besoin.
 
 ## PlatformIO
 
